@@ -288,7 +288,8 @@ export default {
 .body .video {
   height: 100%;
   width: 100%;
-  object-fit: fill;
+  object-fit: cover;
+  display: block;
 }
 
 .body .people-img {
