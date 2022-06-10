@@ -178,7 +178,7 @@ export default {
     nextTab() {
       this.isSuccessTextShow = true
       setTimeout(() => {
-        // this.isSuccessTextShow = false
+        this.isSuccessTextShow = false
       }, 4000)
     }
   },
