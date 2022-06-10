@@ -290,6 +290,7 @@ export default {
   width: 100%;
   object-fit: cover;
   display: block;
+  transform: rotateY(180deg);
 }
 
 .body .people-img {
